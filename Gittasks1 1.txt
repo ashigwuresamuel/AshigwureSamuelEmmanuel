@@ -1,0 +1,12 @@
+
+  Git Task1
+
+Full Name:Ashigwure Samuel Emmmanuel
+
+Email:emmanuelsamuelashigwure@gmail.com
+
+Slackusername:AshigwureSamuelEmmanuel
+
+Tracks:Moibile Development
+
+courses:flutter and kotlin
